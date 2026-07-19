@@ -49,11 +49,11 @@ Simulates a range of dilution rates to analyse the effect on steady-state biomas
 
 ## How to run
 
-**Install dependencies**
+**1. Install dependencies**
 
-**Run the dynamic simulation**
+**2. Run the dynamic simulation**
 
-**Run the parameter sweep**
+**3. Run the parameter sweep**
 
 Plots are saved automatically as PNG files in the same directory.
 
