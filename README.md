@@ -50,13 +50,10 @@ Simulates a range of dilution rates to analyse the effect on steady-state biomas
 ## How to run
 
 **Install dependencies**
-pip install scipy matplotlib numpy
 
 **Run the dynamic simulation**
-python simulation.py
 
 **Run the parameter sweep**
-python parameter_sweep.py
 
 Plots are saved automatically as PNG files in the same directory.
 
